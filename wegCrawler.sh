@@ -2,7 +2,6 @@
 
 echo " "
 echo "####   Simple web-crawler developed to gather target information  ####"
-echo "####               Developed for Riscure Wargames   		        ####" 
 echo "####                  by Guilherme Hollweg v0.1                   ####"
 echo " "
 
